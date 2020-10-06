@@ -1,4 +1,4 @@
 # Portfolio
 ### 🙄 SSONG 's Portfolie
-- 포트폴리오를 만들고 호스팅 했습니다. 
+- 포트폴리오 만들고 호스팅 해보기 
 - https://friedegg818.github.io/Portfolio/ 
